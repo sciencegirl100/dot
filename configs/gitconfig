@@ -1,0 +1,12 @@
+[color]
+	ui = true
+[user]
+	name = Elizabeth Green
+	email = github@ejg.io
+[core]
+	excludesfile = ~/.gitignore
+	autocrlf = input
+[github]
+	user = sciencegirl100
+[gpg]
+	program = gpg2
