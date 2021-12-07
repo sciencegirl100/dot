@@ -2,7 +2,7 @@
 touch $HOME/.viminfo
 # Install prerequisites
 sudo apt update
-sudo apt install -y curl neovim python3-dev python3-pip python-is-python3 build-essential bundler g++ git cmake sqlite3 libsqlite3-dev qt5-default qttools5-dev-tools qttools5-dev cscope exuberant-ctags
+sudo apt install -y curl neovim python3-dev python3-pip python-is-python3 build-essential bundler g++ git cmake sqlite3 libsqlite3-dev qtbase5-dev qtchooser qt5-qmake qttools5-dev-tools qttools5-dev cscope exuberant-ctags
 
 sudo gem install starscope
 pip3 install pyscope
